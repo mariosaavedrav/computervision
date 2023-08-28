@@ -66,3 +66,5 @@ with open("measurements.txt", "w") as f:
         f.write(f"Start Point: {measurement['start_point']}\n")
         f.write(f"End Point: {measurement['end_point']}\n")
         f.write(f"Distance: {measurement['distance']:.2f}\n\n")
+
+        #pruebadegir1
